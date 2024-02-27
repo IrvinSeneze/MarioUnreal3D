@@ -1,3 +1,2 @@
-2024/02/26-09:18:31.003 2e7c Reusing MANIFEST C:/Users/senez/Documents/Unreal Projects/Mario3DUnreal/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2024/02/26-09:18:31.006 2e7c Recovering log #3
-2024/02/26-09:18:31.010 2e7c Reusing old log C:/Users/senez/Documents/Unreal Projects/Mario3DUnreal/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2024/02/26-12:03:28.416 3804 Creating DB C:/Users/senez/Documents/Unreal Projects/MarioUnreal3D/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2024/02/26-12:03:28.422 3804 Reusing MANIFEST C:/Users/senez/Documents/Unreal Projects/MarioUnreal3D/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
