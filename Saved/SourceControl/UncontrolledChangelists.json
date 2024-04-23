@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/Blueprint/mario/BP_Mario.uasset",
 				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/UI/UI_Player.uasset",
 				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineFonts/Super_Mario_Bros_.uasset",
@@ -15,19 +16,23 @@
 				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/system/PC_Mario.uasset",
 				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/map/ExempleMap.umap",
 				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/UI/EmplacementVidePieceEtoilepng.uasset",
+=======
+>>>>>>> 5c1809f (ameliorations des animations)
 				"C:/Users/senez/Documents/Unreal Projects/MarioUnreal3D/Content/Blueprint/mario/BP_Mario.uasset",
 				"C:/Users/senez/Documents/Unreal Projects/MarioUnreal3D/Content/Blueprint/mario/BPA_Mario.uasset",
 				"C:/Users/senez/Documents/Unreal Projects/MarioUnreal3D/Content/map/ExempleMap.umap",
-				"C:/Users/senez/Documents/Unreal Projects/MarioUnreal3D/Content/resources/Textures/blocks/unbreakableBlock.uasset",
 				"C:/Users/senez/Documents/Unreal Projects/MarioUnreal3D/Content/resources/materials/blocks/Unbreakable_Block_Mat.uasset",
 				"C:/Users/senez/Documents/Unreal Projects/MarioUnreal3D/Content/Blueprint/blocks/BP_Item_Block.uasset",
 				"C:/Users/senez/Documents/Unreal Projects/MarioUnreal3D/Content/Blueprint/blocks/BP_Breakable_Block.uasset",
 				"C:/Users/senez/Documents/Unreal Projects/MarioUnreal3D/Content/Blueprint/blocks/BP_Base_Block.uasset",
 				"C:/Users/senez/Documents/Unreal Projects/MarioUnreal3D/Content/resources/Textures/blocks/emptyBlock.uasset",
-				"C:/Users/senez/Documents/Unreal Projects/MarioUnreal3D/Content/resources/materials/blocks/EEmpty_Block_Mat.uasset",
 				"C:/Users/senez/Documents/Unreal Projects/MarioUnreal3D/Content/resources/materials/blocks/Empty_Block_Mat.uasset",
 				"C:/Users/senez/Documents/Unreal Projects/MarioUnreal3D/Content/resources/Textures/blocks/unbreakableBlock_.uasset",
-				"C:/Users/senez/Documents/Unreal Projects/MarioUnreal3D/Content/Blueprint/blocks/BP_Unbreakable_Block.uasset"
+				"C:/Users/senez/Documents/Unreal Projects/MarioUnreal3D/Content/Blueprint/blocks/BP_Unbreakable_Block.uasset",
+				"C:/Users/senez/Documents/Unreal Projects/MarioUnreal3D/Content/Blueprint/mario/BS_MarioRun.uasset",
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/Blueprint/mario/BP_Mario.uasset",
+				"C:/Users/senez/Documents/Unreal Projects/MarioUnreal3D/Content/resources/Textures/blocks/unbreakableBlock.uasset",
+				"C:/Users/senez/Documents/Unreal Projects/MarioUnreal3D/Content/resources/materials/blocks/EEmpty_Block_Mat.uasset"
 			]
 		}
 	]
