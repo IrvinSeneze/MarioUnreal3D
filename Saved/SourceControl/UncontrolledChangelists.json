@@ -12,7 +12,31 @@
 				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/UI/Piece.uasset",
 				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/Blueprint/collectable/moneda_de_mario.uasset",
 				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/UI/Super_Mario_Bros__Font.uasset",
-				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/UI/UI_Player.uasset"
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/UI/UI_Player.uasset",
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/Blueprint/collectable/FireFlower.uasset",
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/Blueprint/collectable/BP_FireFlower.uasset",
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/Blueprint/collectable/Material_007.uasset",
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/Blueprint/collectable/Material_006.uasset",
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/Blueprint/collectable/Material_005.uasset",
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/Blueprint/collectable/Material_004.uasset",
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/Blueprint/collectable/Material_003.uasset",
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/Blueprint/collectable/Material_002.uasset",
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/Blueprint/collectable/FireFlower/BP_FireFlower.uasset",
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/Blueprint/collectable/FireFlower/FireFlower.uasset",
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/Blueprint/collectable/FireFlower/Material_002.uasset",
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/Blueprint/collectable/FireFlower/Material_003.uasset",
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/Blueprint/collectable/FireFlower/Material_004.uasset",
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/Blueprint/collectable/FireFlower/Material_005.uasset",
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/Blueprint/collectable/FireFlower/Material_006.uasset",
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/Blueprint/collectable/FireFlower/Material_007.uasset",
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/Blueprint/blocks/uploads_files_5112066_Pipe+Super+Mario.uasset",
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/Blueprint/blocks/defaultMat.uasset",
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/Blueprint/blocks/Tuyaux.uasset",
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/Blueprint/Object/Tuyaux.uasset",
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/Blueprint/Object/defaultMat.uasset",
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/Blueprint/Object/M_Tuyaux.uasset",
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/Blueprint/Object/NewBlueprint.uasset",
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/Blueprint/Object/BP_Tuyaux.uasset"
 			]
 		}
 	]
