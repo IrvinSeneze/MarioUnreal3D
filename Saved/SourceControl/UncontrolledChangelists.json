@@ -5,7 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/map/ExempleMap.umap"
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/map/ExempleMap.umap",
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/UI/EmplacementVidePieceEtoilepng.uasset",
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/UI/Piece.uasset",
+				"C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/Blueprint/collectable/moneda_de_mario.uasset"
 			]
 		}
 	]
