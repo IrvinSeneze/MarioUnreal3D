@@ -2560,3 +2560,388 @@ Make sure 'UI_GameOver' has been compiled for  Reset Game
 [2024.05.21-11.20.21:543][886]LogFileHelpers: InternalPromptForCheckoutAndSave took 211 ms (total: 3.89 sec)
 [2024.05.21-11.20.21:548][886]AssetCheck: New page: Asset Save: ExempleMap
 [2024.05.21-11.20.21:548][886]LogContentValidation: Display: Validating /Script/Engine.World /Game/map/ExempleMap.ExempleMap
+[2024.05.21-11.29.12:329][719]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.21-11.29.15:761][807]LogFactory: Error: Can't find file 'Flag 01 FBX .fbx' for import
+[2024.05.21-11.29.18:511][807]LogSlate: Window 'Message' being destroyed
+[2024.05.21-11.29.18:521][807]Message dialog closed, result: Ok, title: Message, text: Failed to import 'Flag 01 FBX .fbx'. Failed to create asset '/Game/Blueprint/Object/Flag_01_FBX_'.
+Please see Output Log for details.
+[2024.05.21-11.29.18:521][807]LogAssetTools: Warning: Failed to import 'Flag 01 FBX .fbx'. Failed to create asset '/Game/Blueprint/Object/Flag_01_FBX_'.
+Please see Output Log for details.
+[2024.05.21-11.29.41:899][609]AssetReimport: New page: Outstanding source content changes 15:29:41
+[2024.05.21-11.29.41:935][610]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/Blueprint/Object/Flag 01 FBX .fbx)
+[2024.05.21-11.29.41:979][610]LogFbx: Loading FBX Scene from C:/Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/Blueprint/Object/Flag 01 FBX .fbx
+[2024.05.21-11.29.41:988][610]LogFbx: FBX Scene Loaded Succesfully
+[2024.05.21-11.29.49:900][610]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.05.21-11.29.50:079][610]LogStaticMesh: Built static mesh [0.02s] /Game/Blueprint/Object/Flag_01_FBX_.Flag_01_FBX_
+[2024.05.21-11.29.50:225][611]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.21-11.29.50:420][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Object/Flag_01_FBX_" FILE="../../../../../../Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/Blueprint/Object/Flag_01_FBX_.uasset" SILENT=true
+[2024.05.21-11.29.50:430][611]LogSavePackage: Moving output files for package: /Game/Blueprint/Object/Flag_01_FBX_
+[2024.05.21-11.29.50:430][611]LogSavePackage: Moving '../../../../../../Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Saved/Flag_01_FBX_7AC3AC834F6090273B62D59737F40493.tmp' to '../../../../../../Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/Blueprint/Object/Flag_01_FBX_.uasset'
+[2024.05.21-11.29.50:445][611]LogFileHelpers: InternalPromptForCheckoutAndSave took 220 ms (total: 4.11 sec)
+[2024.05.21-11.29.50:456][611]LogShaderCompilers: Display: ================================================
+[2024.05.21-11.29.50:456][611]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.21-11.29.50:456][611]LogShaderCompilers: Display: Total job queries 60, among them cache hits 28 (46.67%)
+[2024.05.21-11.29.50:456][611]LogShaderCompilers: Display: Tracking 32 distinct input hashes that result in 21 distinct outputs (65.62%)
+[2024.05.21-11.29.50:456][611]LogShaderCompilers: Display: RAM used: 700,63 KiB of 819,20 MiB budget. Usage: 0.08%
+[2024.05.21-11.29.50:456][611]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.21-11.29.50:456][611]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.05.21-11.29.50:456][611]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.05.21-11.29.50:456][611]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.05.21-11.29.50:456][611]LogShaderCompilers: Display: ================================================
+[2024.05.21-11.29.50:470][612]AssetCheck: New page: Asset Save: Flag_01_FBX_
+[2024.05.21-11.29.50:470][612]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Blueprint/Object/Flag_01_FBX_.Flag_01_FBX_
+[2024.05.21-11.29.52:942][727]LogSlate: Window 'Message Log' being destroyed
+[2024.05.21-11.29.52:950][727]LogSlate: Window 'Message Log' being destroyed
+[2024.05.21-11.29.53:448][757]AssetReimport: Importing new asset /Game/Blueprint/Object/Flag_01_FBX_.
+[2024.05.21-11.30.04:628][420]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Blueprint/Object/Flag_01_FBX_.Flag_01_FBX_
+[2024.05.21-11.30.04:660][420]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.21-11.30.04:661][420]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.21-11.30.05:797][420]LogViewport: Scene viewport resized to 1368x908, mode Windowed.
+[2024.05.21-11.30.14:833][916]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Blueprint/Object/blinn1.blinn1
+[2024.05.21-11.30.14:869][916]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.21-11.30.14:869][916]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.21-11.30.15:064][916]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.21-11.30.15:064][916]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.21-11.30.15:064][916]MaterialEditorStats: Shader Count: 0
+[2024.05.21-11.30.15:069][916]LogViewport: Scene viewport resized to 374x451, mode Windowed.
+[2024.05.21-11.30.15:171][918]MaterialEditorStats: Base pass shader: 193 instructions
+[2024.05.21-11.30.15:172][918]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.05.21-11.30.15:172][918]MaterialEditorStats: Texture samplers: 2/16
+[2024.05.21-11.30.15:172][918]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.21-11.30.15:172][918]MaterialEditorStats: Shader Count: 4
+[2024.05.21-11.30.17:811][ 31]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.21-11.30.19:598][131]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.21-11.30.19:598][131]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.21-11.30.19:598][131]MaterialEditorStats: Shader Count: 0
+[2024.05.21-11.30.19:622][133]MaterialEditorStats: Base pass shader: 193 instructions
+[2024.05.21-11.30.19:622][133]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.05.21-11.30.19:622][133]MaterialEditorStats: Texture samplers: 2/16
+[2024.05.21-11.30.19:622][133]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.21-11.30.19:622][133]MaterialEditorStats: Shader Count: 4
+[2024.05.21-11.30.20:644][194]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.21-11.30.20:644][194]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.21-11.30.20:644][194]MaterialEditorStats: Shader Count: 0
+[2024.05.21-11.30.20:671][196]MaterialEditorStats: Base pass shader: 193 instructions
+[2024.05.21-11.30.20:671][196]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.05.21-11.30.20:671][196]MaterialEditorStats: Texture samplers: 2/16
+[2024.05.21-11.30.20:671][196]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.21-11.30.20:671][196]MaterialEditorStats: Shader Count: 4
+[2024.05.21-11.30.21:594][251]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.21-11.30.21:594][251]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.21-11.30.21:594][251]MaterialEditorStats: Shader Count: 0
+[2024.05.21-11.30.21:621][253]MaterialEditorStats: Base pass shader: 193 instructions
+[2024.05.21-11.30.21:621][253]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.05.21-11.30.21:621][253]MaterialEditorStats: Texture samplers: 2/16
+[2024.05.21-11.30.21:621][253]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.21-11.30.21:621][253]MaterialEditorStats: Shader Count: 4
+[2024.05.21-11.30.21:850][265]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.21-11.30.21:850][265]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.21-11.30.21:850][265]MaterialEditorStats: Shader Count: 0
+[2024.05.21-11.30.21:875][267]MaterialEditorStats: Base pass shader: 193 instructions
+[2024.05.21-11.30.21:876][267]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.05.21-11.30.21:876][267]MaterialEditorStats: Texture samplers: 2/16
+[2024.05.21-11.30.21:876][267]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.21-11.30.21:876][267]MaterialEditorStats: Shader Count: 4
+[2024.05.21-11.30.22:382][297]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.21-11.30.22:382][297]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.21-11.30.22:382][297]MaterialEditorStats: Shader Count: 0
+[2024.05.21-11.30.22:409][299]MaterialEditorStats: Base pass shader: 193 instructions
+[2024.05.21-11.30.22:409][299]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.05.21-11.30.22:409][299]MaterialEditorStats: Texture samplers: 2/16
+[2024.05.21-11.30.22:409][299]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.21-11.30.22:409][299]MaterialEditorStats: Shader Count: 4
+[2024.05.21-11.30.22:497][304]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.21-11.30.22:497][304]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.21-11.30.22:497][304]MaterialEditorStats: Shader Count: 0
+[2024.05.21-11.30.22:525][306]MaterialEditorStats: Base pass shader: 193 instructions
+[2024.05.21-11.30.22:526][306]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.05.21-11.30.22:526][306]MaterialEditorStats: Texture samplers: 2/16
+[2024.05.21-11.30.22:526][306]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.21-11.30.22:526][306]MaterialEditorStats: Shader Count: 4
+[2024.05.21-11.30.23:879][387]LogSlate: Window 'Color Picker' being destroyed
+[2024.05.21-11.30.23:890][387]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.21-11.30.23:890][387]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.21-11.30.23:890][387]MaterialEditorStats: Shader Count: 0
+[2024.05.21-11.30.23:914][389]MaterialEditorStats: Base pass shader: 193 instructions
+[2024.05.21-11.30.23:914][389]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.05.21-11.30.23:914][389]MaterialEditorStats: Texture samplers: 2/16
+[2024.05.21-11.30.23:914][389]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.21-11.30.23:914][389]MaterialEditorStats: Shader Count: 4
+[2024.05.21-11.30.33:775][980]LogMaterialEditor: Saving and Compiling material blinn1
+[2024.05.21-11.30.34:703][980]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.05.21-11.30.34:934][980]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.05.21-11.30.34:945][980]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.21-11.30.35:096][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Object/blinn1" FILE="../../../../../../Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/Blueprint/Object/blinn1.uasset" SILENT=true
+[2024.05.21-11.30.35:098][980]LogSavePackage: Moving output files for package: /Game/Blueprint/Object/blinn1
+[2024.05.21-11.30.35:098][980]LogSavePackage: Moving '../../../../../../Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Saved/blinn13420E3B64D21BA5752FE35A74E9869A9.tmp' to '../../../../../../Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/Blueprint/Object/blinn1.uasset'
+[2024.05.21-11.30.35:109][980]LogFileHelpers: InternalPromptForCheckoutAndSave took 163 ms (total: 4.28 sec)
+[2024.05.21-11.30.35:111][980]AssetCheck: New page: Asset Save: blinn1
+[2024.05.21-11.30.35:111][980]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Blueprint/Object/blinn1.blinn1
+[2024.05.21-11.30.35:116][980]MaterialEditorStats: Base pass shader: 193 instructions
+[2024.05.21-11.30.35:116][980]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.05.21-11.30.35:116][980]MaterialEditorStats: MaxSampler: 241 instructions
+[2024.05.21-11.30.35:116][980]MaterialEditorStats: Texture samplers: 3/16
+[2024.05.21-11.30.35:116][980]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.21-11.30.35:116][980]MaterialEditorStats: Shader Count: 16
+[2024.05.21-11.31.06:348][698]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.05.21-11.31.06:386][698]LogContentBrowser: Deferred new asset file creation: NewBlueprint1
+[2024.05.21-11.31.06:394][698]LogContentBrowser: Creating deferred item: NewBlueprint1
+[2024.05.21-11.31.06:414][699]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint1).
+[2024.05.21-11.31.12:480][ 59]LogContentBrowser: Attempting asset rename: NewBlueprint1 -> BP_Flag
+[2024.05.21-11.31.12:499][ 59]LogContentBrowser: End creating deferred item NewBlueprint1
+[2024.05.21-11.31.16:965][303]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/Object/BP_Flag.BP_Flag
+[2024.05.21-11.31.16:966][303]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.21-11.31.16:966][303]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.21-11.31.17:186][303]LogViewport: Scene viewport resized to 1139x687, mode Windowed.
+[2024.05.21-11.31.23:970][704]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/Object/BP_Tuyaux.BP_Tuyaux
+[2024.05.21-11.31.23:970][704]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.21-11.31.23:970][704]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.21-11.31.25:965][809]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2024.05.21-11.31.25:965][809]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.21-11.31.25:991][809]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/Object/BP_Tuyaux.BP_Tuyaux
+[2024.05.21-11.31.25:992][809]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.21-11.31.25:992][809]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.21-11.32.02:436][703]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.21-11.32.08:649][ 71]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.21-11.32.08:727][ 71]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Object/BP_Flag" FILE="../../../../../../Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/Blueprint/Object/BP_Flag.uasset" SILENT=true
+[2024.05.21-11.32.08:730][ 71]LogSavePackage: Moving output files for package: /Game/Blueprint/Object/BP_Flag
+[2024.05.21-11.32.08:730][ 71]LogSavePackage: Moving '../../../../../../Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Saved/BP_FlagCE4A4471435BCC55E8491D96E341BA81.tmp' to '../../../../../../Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/Blueprint/Object/BP_Flag.uasset'
+[2024.05.21-11.32.08:741][ 71]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 4.37 sec)
+[2024.05.21-11.32.08:743][ 71]AssetCheck: New page: Asset Save: BP_Flag
+[2024.05.21-11.32.08:743][ 71]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/Object/BP_Flag.BP_Flag
+[2024.05.21-11.32.10:025][147]BlueprintLog: New page: Compile BP_Flag
+[2024.05.21-11.32.10:055][147]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.05.21-11.32.33:392][492]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprint/Object/BP_Flag.BP_Flag_C
+[2024.05.21-11.32.33:392][492]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprint/Object/BP_Flag.BP_Flag_C
+[2024.05.21-11.32.33:394][492]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprint/Object/BP_Flag.BP_Flag as actor: BP_Flag_C /Game/map/ExempleMap.ExempleMap:PersistentLevel.BP_Flag_C_0
+[2024.05.21-11.32.33:395][492]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprint/Object/BP_Flag.BP_Flag as actor: BP_Flag_C /Game/map/ExempleMap.ExempleMap:PersistentLevel.BP_Flag_C_0
+[2024.05.21-11.32.33:403][492]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.05.21-11.32.34:482][556]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprint/Object/BP_Flag.BP_Flag_C
+[2024.05.21-11.32.34:482][556]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprint/Object/BP_Flag.BP_Flag_C
+[2024.05.21-11.32.34:487][556]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprint/Object/BP_Flag.BP_Flag as actor: BP_Flag_C /Game/map/ExempleMap.ExempleMap:PersistentLevel.BP_Flag_C_1
+[2024.05.21-11.32.34:489][556]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprint/Object/BP_Flag.BP_Flag as actor: BP_Flag_C /Game/map/ExempleMap.ExempleMap:PersistentLevel.BP_Flag_C_1
+[2024.05.21-11.32.58:001][909]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.21-11.32.58:078][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map/ExempleMap" FILE="../../../../../../Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/map/ExempleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.21-11.32.58:116][909]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.05.21-11.32.58:234][909]LogSavePackage: Moving output files for package: /Game/map/ExempleMap
+[2024.05.21-11.32.58:235][909]LogSavePackage: Moving '../../../../../../Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Saved/ExempleMap45F706FD48441F6BAFC975BB1C93493E.tmp' to '../../../../../../Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/map/ExempleMap.umap'
+[2024.05.21-11.32.58:245][909]LogFileHelpers: Saving map 'ExempleMap' took 0.167
+[2024.05.21-11.32.58:255][909]LogFileHelpers: InternalPromptForCheckoutAndSave took 254 ms (total: 4.62 sec)
+[2024.05.21-11.32.58:258][909]AssetCheck: New page: Asset Save: ExempleMap
+[2024.05.21-11.32.58:258][909]LogContentValidation: Display: Validating /Script/Engine.World /Game/map/ExempleMap.ExempleMap
+[2024.05.21-11.33.11:326][690]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.21-11.33.11:403][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map/ExempleMap" FILE="../../../../../../Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/map/ExempleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.21-11.33.11:436][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.05.21-11.33.11:551][690]LogSavePackage: Moving output files for package: /Game/map/ExempleMap
+[2024.05.21-11.33.11:552][690]LogSavePackage: Moving '../../../../../../Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Saved/ExempleMapD51512A44989722040DE628DC3F69F8D.tmp' to '../../../../../../Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/map/ExempleMap.umap'
+[2024.05.21-11.33.11:562][690]LogFileHelpers: Saving map 'ExempleMap' took 0.161
+[2024.05.21-11.33.11:574][690]LogFileHelpers: InternalPromptForCheckoutAndSave took 247 ms (total: 4.87 sec)
+[2024.05.21-11.33.11:578][690]AssetCheck: New page: Asset Save: ExempleMap
+[2024.05.21-11.33.11:578][690]LogContentValidation: Display: Validating /Script/Engine.World /Game/map/ExempleMap.ExempleMap
+[2024.05.21-11.33.12:571][749]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.05.21-11.34.06:412][975]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.21-11.34.06:491][976]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.21-11.34.06:531][977]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.21-11.36.45:261][471]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.21-11.36.45:336][472]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.21-11.38.44:396][458]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.21-11.38.44:407][458]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.21-11.38.44:407][458]PIE: New page: PIE session: ExempleMap (21 mai 2024 à 15:38:44)
+[2024.05.21-11.38.44:407][458]LogPlayLevel: Creating play world package: /Game/map/UEDPIE_0_ExempleMap
+[2024.05.21-11.38.44:438][458]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030777s)
+[2024.05.21-11.38.44:438][458]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/ExempleMap.ExempleMap to /Game/map/UEDPIE_0_ExempleMap.ExempleMap (0.030861s)
+[2024.05.21-11.38.44:452][458]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.05.21-11.38.44:455][458]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.21-11.38.44:455][458]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.21-11.38.44:456][458]LogAIModule: Creating AISystem for world ExempleMap
+[2024.05.21-11.38.44:456][458]LogPlayLevel: PIE: World Init took: (0.001492s)
+[2024.05.21-11.38.44:456][458]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.05.21-11.38.44:456][458]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.21-11.38.44:456][458]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.21-11.38.44:456][458]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.21-11.38.44:456][458]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.21-11.38.44:456][458]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.21-11.38.44:456][458]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.21-11.38.44:456][458]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.21-11.38.44:457][458]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.21-11.38.44:457][458]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.21-11.38.44:457][458]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.21-11.38.44:457][458]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.21-11.38.44:460][458]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.21-11.38.44:489][458]LogAudioMixer: Display: Using Audio Hardware Device Speakers (C-Media(R) Audio)
+[2024.05.21-11.38.44:490][458]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.21-11.38.44:490][458]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.21-11.38.44:490][458]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.21-11.38.44:491][458]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.05.21-11.38.44:491][458]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.05.21-11.38.44:493][458]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.05.21-11.38.44:493][458]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.05.21-11.38.44:493][458]LogInit: FAudioDevice initialized with ID 12.
+[2024.05.21-11.38.44:493][458]LogAudio: Display: Audio Device (ID: 12) registered with world 'ExempleMap'.
+[2024.05.21-11.38.44:493][458]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.05.21-11.38.44:500][458]LogLoad: Game class is 'GM_Mario_C'
+[2024.05.21-11.38.44:514][458]LogWorld: Bringing World /Game/map/UEDPIE_0_ExempleMap.ExempleMap up for play (max tick rate 60) at 2024.05.21-13.38.44
+[2024.05.21-11.38.44:515][458]LogWorld: Bringing up level for play took: 0.014630
+[2024.05.21-11.38.44:518][458]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2024.05.21-11.38.44:530][458]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.05.21-11.38.44:530][458]PIE: Server logged in
+[2024.05.21-11.38.44:531][458]PIE: Play in editor total start time 0,127 seconds.
+[2024.05.21-11.38.46:307][558]Cmd: LevelEditor.ToggleImmersive
+[2024.05.21-11.38.46:324][558]LogViewport: Scene viewport resized to 1229x970, mode Windowed.
+[2024.05.21-11.38.46:349][559]LogViewport: Scene viewport resized to 1607x1032, mode Windowed.
+[2024.05.21-11.38.46:386][560]LogViewport: Scene viewport resized to 1842x1071, mode Windowed.
+[2024.05.21-11.38.46:536][561]LogViewport: Scene viewport resized to 1924x1084, mode Windowed.
+[2024.05.21-11.38.52:742][913]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2024.05.21-11.39.56:914][763]Cmd: LevelEditor.ToggleImmersive
+[2024.05.21-11.39.56:924][763]LogViewport: Scene viewport resized to 1641x1037, mode Windowed.
+[2024.05.21-11.39.56:954][764]LogViewport: Scene viewport resized to 1322x985, mode Windowed.
+[2024.05.21-11.39.56:988][765]LogViewport: Scene viewport resized to 1063x942, mode Windowed.
+[2024.05.21-11.39.57:024][766]LogViewport: Scene viewport resized to 912x917, mode Windowed.
+[2024.05.21-11.39.57:063][767]LogViewport: Scene viewport resized to 850x907, mode Windowed.
+[2024.05.21-11.39.57:102][768]LogViewport: Scene viewport resized to 841x906, mode Windowed.
+[2024.05.21-11.39.57:156][770]LogViewport: Scene viewport resized to 841x905, mode Windowed.
+[2024.05.21-11.39.57:822][808]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.21-11.39.57:822][808]LogWorld: BeginTearingDown for /Game/map/UEDPIE_0_ExempleMap
+[2024.05.21-11.39.57:823][808]LogWorld: UWorld::CleanupWorld for ExempleMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.21-11.39.57:825][808]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.21-11.39.57:830][808]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.21-11.39.57:836][808]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.21-11.39.57:848][808]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.21-11.39.57:848][808]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.05.21-11.39.57:848][808]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.05.21-11.39.57:851][808]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.05.21-11.39.57:856][808]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.21-11.39.57:863][808]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.05.21-11.39.57:930][809]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2024.05.21-11.40.57:105][787]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TriggerBox
+[2024.05.21-11.40.57:106][787]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TriggerBox
+[2024.05.21-11.40.57:109][787]LogActorFactory: Actor Factory spawned Class /Script/Engine.TriggerBox as actor: TriggerBox /Game/map/ExempleMap.ExempleMap:PersistentLevel.TriggerBox_0
+[2024.05.21-11.40.57:110][787]LogActorFactory: Actor Factory spawned Class /Script/Engine.TriggerBox as actor: TriggerBox /Game/map/ExempleMap.ExempleMap:PersistentLevel.TriggerBox_0
+[2024.05.21-11.40.58:068][844]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TriggerBox
+[2024.05.21-11.40.58:068][844]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.TriggerBox
+[2024.05.21-11.40.58:070][844]LogActorFactory: Actor Factory spawned Class /Script/Engine.TriggerBox as actor: TriggerBox /Game/map/ExempleMap.ExempleMap:PersistentLevel.TriggerBox_1
+[2024.05.21-11.40.58:071][844]LogActorFactory: Actor Factory spawned Class /Script/Engine.TriggerBox as actor: TriggerBox /Game/map/ExempleMap.ExempleMap:PersistentLevel.TriggerBox_1
+[2024.05.21-11.42.57:441][773]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.21-11.42.57:522][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map/ExempleMap" FILE="../../../../../../Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/map/ExempleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.21-11.42.57:558][773]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.05.21-11.42.57:680][773]LogSavePackage: Moving output files for package: /Game/map/ExempleMap
+[2024.05.21-11.42.57:681][773]LogSavePackage: Moving '../../../../../../Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Saved/ExempleMap1B475F9740700FB88A9652A09113B74B.tmp' to '../../../../../../Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/map/ExempleMap.umap'
+[2024.05.21-11.42.57:695][773]LogFileHelpers: Saving map 'ExempleMap' took 0.173
+[2024.05.21-11.42.57:705][773]LogFileHelpers: InternalPromptForCheckoutAndSave took 263 ms (total: 5.13 sec)
+[2024.05.21-11.42.57:710][773]AssetCheck: New page: Asset Save: ExempleMap
+[2024.05.21-11.42.57:710][773]LogContentValidation: Display: Validating /Script/Engine.World /Game/map/ExempleMap.ExempleMap
+[2024.05.21-11.43.06:628][295]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.21-11.43.30:867][676]LogEditorTransaction: Undo Add Node
+[2024.05.21-11.44.16:368][312]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.21-11.44.16:448][312]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map/ExempleMap" FILE="../../../../../../Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/map/ExempleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.21-11.44.16:481][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.05.21-11.44.16:579][312]LogSavePackage: Moving output files for package: /Game/map/ExempleMap
+[2024.05.21-11.44.16:580][312]LogSavePackage: Moving '../../../../../../Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Saved/ExempleMap84034A5B4A4AC8752A4553AEA5D495F6.tmp' to '../../../../../../Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/map/ExempleMap.umap'
+[2024.05.21-11.44.16:590][312]LogFileHelpers: Saving map 'ExempleMap' took 0.142
+[2024.05.21-11.44.16:597][312]LogFileHelpers: InternalPromptForCheckoutAndSave took 229 ms (total: 5.36 sec)
+[2024.05.21-11.44.16:601][312]AssetCheck: New page: Asset Save: ExempleMap
+[2024.05.21-11.44.16:601][312]LogContentValidation: Display: Validating /Script/Engine.World /Game/map/ExempleMap.ExempleMap
+[2024.05.21-11.44.47:682][149]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.21-11.44.47:752][149]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map/ExempleMap" FILE="../../../../../../Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/map/ExempleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.21-11.44.47:784][149]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.05.21-11.44.47:882][149]LogSavePackage: Moving output files for package: /Game/map/ExempleMap
+[2024.05.21-11.44.47:883][149]LogSavePackage: Moving '../../../../../../Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Saved/ExempleMap4CC92253424074BCA4E02BAD5A39DA4C.tmp' to '../../../../../../Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/map/ExempleMap.umap'
+[2024.05.21-11.44.47:895][149]LogFileHelpers: Saving map 'ExempleMap' took 0.144
+[2024.05.21-11.44.47:902][149]LogFileHelpers: InternalPromptForCheckoutAndSave took 220 ms (total: 5.58 sec)
+[2024.05.21-11.44.47:904][149]AssetCheck: New page: Asset Save: ExempleMap
+[2024.05.21-11.44.47:904][149]LogContentValidation: Display: Validating /Script/Engine.World /Game/map/ExempleMap.ExempleMap
+[2024.05.21-11.44.49:017][214]BlueprintLog: New page: Compile ExempleMap
+[2024.05.21-11.44.49:055][214]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.05.21-11.45.46:174][530]BlueprintLog: New page: Compile ExempleMap
+[2024.05.21-11.45.46:207][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.05.21-11.45.49:614][721]BlueprintLog: New page: Compile ExempleMap
+[2024.05.21-11.45.49:647][721]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.05.21-11.45.50:993][798]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.21-11.45.51:072][798]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map/ExempleMap" FILE="../../../../../../Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/map/ExempleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.21-11.45.51:102][798]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.05.21-11.45.51:197][798]LogSavePackage: Moving output files for package: /Game/map/ExempleMap
+[2024.05.21-11.45.51:198][798]LogSavePackage: Moving '../../../../../../Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Saved/ExempleMapCB63C7804C52ABB671085CB662AA9816.tmp' to '../../../../../../Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/map/ExempleMap.umap'
+[2024.05.21-11.45.51:207][798]LogFileHelpers: Saving map 'ExempleMap' took 0.136
+[2024.05.21-11.45.51:216][798]LogFileHelpers: InternalPromptForCheckoutAndSave took 222 ms (total: 5.81 sec)
+[2024.05.21-11.45.51:218][798]AssetCheck: New page: Asset Save: ExempleMap
+[2024.05.21-11.45.51:218][798]LogContentValidation: Display: Validating /Script/Engine.World /Game/map/ExempleMap.ExempleMap
+[2024.05.21-11.45.54:075][962]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.21-11.45.54:081][962]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.21-11.45.54:081][962]PIE: New page: PIE session: ExempleMap (21 mai 2024 à 15:45:54)
+[2024.05.21-11.45.54:082][962]LogPlayLevel: Creating play world package: /Game/map/UEDPIE_0_ExempleMap
+[2024.05.21-11.45.54:107][962]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024552s)
+[2024.05.21-11.45.54:107][962]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/map/ExempleMap.ExempleMap to /Game/map/UEDPIE_0_ExempleMap.ExempleMap (0.024593s)
+[2024.05.21-11.45.54:118][962]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.05.21-11.45.54:120][962]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.21-11.45.54:120][962]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.21-11.45.54:121][962]LogAIModule: Creating AISystem for world ExempleMap
+[2024.05.21-11.45.54:121][962]LogPlayLevel: PIE: World Init took: (0.001020s)
+[2024.05.21-11.45.54:121][962]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.05.21-11.45.54:121][962]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.21-11.45.54:121][962]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.21-11.45.54:121][962]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.21-11.45.54:121][962]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.21-11.45.54:121][962]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.21-11.45.54:121][962]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.21-11.45.54:121][962]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.21-11.45.54:121][962]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.21-11.45.54:122][962]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.21-11.45.54:122][962]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.21-11.45.54:122][962]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.21-11.45.54:124][962]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.21-11.45.54:145][962]LogAudioMixer: Display: Using Audio Hardware Device Speakers (C-Media(R) Audio)
+[2024.05.21-11.45.54:146][962]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.21-11.45.54:146][962]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.21-11.45.54:146][962]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.21-11.45.54:146][962]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.05.21-11.45.54:147][962]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.05.21-11.45.54:148][962]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.05.21-11.45.54:148][962]LogInit: FAudioDevice initialized with ID 13.
+[2024.05.21-11.45.54:148][962]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.05.21-11.45.54:148][962]LogAudio: Display: Audio Device (ID: 13) registered with world 'ExempleMap'.
+[2024.05.21-11.45.54:148][962]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.05.21-11.45.54:151][962]LogLoad: Game class is 'GM_Mario_C'
+[2024.05.21-11.45.54:160][962]LogWorld: Bringing World /Game/map/UEDPIE_0_ExempleMap.ExempleMap up for play (max tick rate 60) at 2024.05.21-13.45.54
+[2024.05.21-11.45.54:160][962]LogWorld: Bringing up level for play took: 0.010097
+[2024.05.21-11.45.54:162][962]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2024.05.21-11.45.54:169][962]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.05.21-11.45.54:170][962]PIE: Server logged in
+[2024.05.21-11.45.54:171][962]PIE: Play in editor total start time 0,089 seconds.
+[2024.05.21-11.46.02:423][442]Cmd: LevelEditor.ToggleImmersive
+[2024.05.21-11.46.02:432][442]LogViewport: Scene viewport resized to 1196x963, mode Windowed.
+[2024.05.21-11.46.02:453][443]LogViewport: Scene viewport resized to 1502x1014, mode Windowed.
+[2024.05.21-11.46.02:484][444]LogViewport: Scene viewport resized to 1762x1057, mode Windowed.
+[2024.05.21-11.46.02:515][445]LogViewport: Scene viewport resized to 1886x1077, mode Windowed.
+[2024.05.21-11.46.02:545][446]LogViewport: Scene viewport resized to 1922x1084, mode Windowed.
+[2024.05.21-11.46.02:719][447]LogViewport: Scene viewport resized to 1924x1084, mode Windowed.
+[2024.05.21-11.46.12:464][ 13]LogScript: Warning: FLatentActionManager::ProcessLatentActions: CallbackTarget is None.
+[2024.05.21-11.46.29:217][ 18]Cmd: LevelEditor.ToggleImmersive
+[2024.05.21-11.46.29:227][ 18]LogViewport: Scene viewport resized to 1638x1036, mode Windowed.
+[2024.05.21-11.46.29:255][ 19]LogViewport: Scene viewport resized to 1328x985, mode Windowed.
+[2024.05.21-11.46.29:285][ 20]LogViewport: Scene viewport resized to 1083x945, mode Windowed.
+[2024.05.21-11.46.29:319][ 21]LogViewport: Scene viewport resized to 936x921, mode Windowed.
+[2024.05.21-11.46.29:348][ 22]LogViewport: Scene viewport resized to 868x910, mode Windowed.
+[2024.05.21-11.46.29:385][ 23]LogViewport: Scene viewport resized to 843x906, mode Windowed.
+[2024.05.21-11.46.29:415][ 24]LogViewport: Scene viewport resized to 841x906, mode Windowed.
+[2024.05.21-11.46.29:448][ 25]LogViewport: Scene viewport resized to 841x905, mode Windowed.
+[2024.05.21-11.46.30:370][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.21-11.46.30:370][ 78]LogWorld: BeginTearingDown for /Game/map/UEDPIE_0_ExempleMap
+[2024.05.21-11.46.30:370][ 78]LogWorld: UWorld::CleanupWorld for ExempleMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.21-11.46.30:372][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.21-11.46.30:377][ 78]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.21-11.46.30:382][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.21-11.46.30:392][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.21-11.46.30:395][ 78]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.05.21-11.46.30:395][ 78]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.05.21-11.46.30:398][ 78]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.05.21-11.46.30:410][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.05.21-11.46.30:494][ 79]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2024.05.21-11.47.29:116][577]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.21-11.47.29:196][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/map/ExempleMap" FILE="../../../../../../Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/map/ExempleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.21-11.47.29:231][577]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.05.21-11.47.29:350][577]LogSavePackage: Moving output files for package: /Game/map/ExempleMap
+[2024.05.21-11.47.29:351][577]LogSavePackage: Moving '../../../../../../Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Saved/ExempleMapC896833E4D5DBAB050F870B31930998F.tmp' to '../../../../../../Users/lucas/Bureau/Ynov/Ynov_2023/Unreal/MarioUnreal3D/Content/map/ExempleMap.umap'
+[2024.05.21-11.47.29:364][577]LogFileHelpers: Saving map 'ExempleMap' took 0.168
+[2024.05.21-11.47.29:373][577]LogFileHelpers: InternalPromptForCheckoutAndSave took 258 ms (total: 6.06 sec)
+[2024.05.21-11.47.29:376][577]AssetCheck: New page: Asset Save: ExempleMap
+[2024.05.21-11.47.29:376][577]LogContentValidation: Display: Validating /Script/Engine.World /Game/map/ExempleMap.ExempleMap
